@@ -1,7 +1,7 @@
 <h1 align="center">Hola Bienvenidos 👋 Polinatura</h1>
 <h3 align="center">Polinatura es un consultorio de medina alternativa que ofrece tratamientos por medio de productos naturales y terapias como: acupuntura, masajes corporales, ozono y herbolaria. El objetivo de Polinatura es optimizar sus servicios, al grado de tener un seguimiento más cercano de sus clientes, así como de optimizar sus inventarios.</h3>
 
-![Polinatura]([https://myoctocat.com/assets/images/base-octocat.svg](https://imgur.com/qhbDAL2)
+![Polinatura](https://imgur.com/qhbDAL2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polinatura&label=Profile%20views&color=0e75b6&style=flat" alt="polinatura" /> </p>
 
