@@ -1,5 +1,5 @@
 <h1 align="center">Hola Bienvenidos 👋 Polinatura</h1>
-<h3 align="center">Polinatura es un consultorio de medina alternativa que ofrece tratamientos por medio de productos naturales y terapias como: acupuntura, masajes corporales, ozono y herbolaria. El objetivo de Polinatura es optimizar sus servicios, al grado de tener un seguimiento más cercano de sus clientes, así como de optimizar sus inventarios.</h3>
+<h3 align="center">Polinatura es un consultorio de medina alternativa que ofrece tratamientos por medio de productos naturales y terapias como: acupuntura, masajes corporales, ozono y herbolaria. </h3>
 
 <img src="https://user-images.githubusercontent.com/109264301/179134370-c3e85266-0295-4a1d-ae69-507a70cf4353.png">
 
